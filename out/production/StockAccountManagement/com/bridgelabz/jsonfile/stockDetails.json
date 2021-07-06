@@ -1,0 +1,14 @@
+{
+  "StockDetails": [
+    {
+      "stockName": "INFY",
+      "numberOfShares": 40.0,
+      "sharePrice": 450.26
+    },
+    {
+      "stockName": "TECHM",
+      "numberOfShares": 50.0,
+      "sharePrice": 700.56
+    }
+  ]
+}
